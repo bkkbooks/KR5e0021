@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5e0021/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5e0021/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 洞玄靈寶玄一真人說生死輪轉因緣經
+  date: '2015-08-29 02:06:56.037601'
+  source:
+    repository: kanripo
+    path: KR5e0021
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5e0021_000-ZTDZ.yaml, hash: 'sha256:4c107b480d157486abf1cf61f6fd8b106f04487a3dcd813a19424d8848d1ab91'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5e0021_000-ZTDZ.markers.yaml, hash: 'sha256:f210b8b85683162eb60b20b79018a1dc4d986cae8b399ce4a20038fd46460927'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5e0021_SJB_000-240692a
+    span:
+    - body
+    - 0
+    - 2533
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:9a30d38b91ca733c25f4325e23e1375a69f88046816ab07c970f6742aab339ca

@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR5e0021/v1
 canonical_location: https://kanripo.org/bkk/KR5e0021/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 洞玄靈寶玄一真人說生死輪轉因緣經
   identifiers:
@@ -32,9 +32,9 @@ editions:
 - short: SJB
 assets:
   parts:
-  - {seq: 0, filename: KR5e0021_000.yaml, hash: 'sha256:5f5dd1f97d5d3e34f6d1756f29db60ac1d5b96c5ee34f8e5db925726a2976388'}
+  - {seq: 0, filename: KR5e0021_000.yaml, hash: 'sha256:fbaadd8e5dc8ed262e61dff44461d4dca7446e92a643e16b5400efd4d84c4eeb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5e0021_000.markers.yaml, hash: 'sha256:fe872c5b1e5293a8b51a04b69543fffe4c6babe3d1e58c343bb837aff6e8fef3'}
+  - {seq: 0, role: markers, filename: assets/KR5e0021_000.markers.yaml, hash: 'sha256:ad8e7474ba9a6bb8c2d5598e23321ecf8c80b196624e1ec53e07f7d6d5f4c6a9'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,4 +46,7 @@ table_of_contents:
   label: juan 000
   type: section
   level: 1
-hash: sha256:f7dbda68074c9b161651d78e0b7ac569f29429ed62532a364d2e17ff6ed32294
+hash: sha256:333d69a37c540ca1897239bc000ee83d1777e55c3990f5c1c2a62d74a11a59af
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
